@@ -1,3 +1,7 @@
+Fork to re-use the codebase for a Home-Assistant Integration.
+Moved the development to repository z8i/klogg.
+
+
 klimalogg - WeeWX driver for TFA KlimaLogg Pro
 Copyright 2016 Luc Heijst
 
